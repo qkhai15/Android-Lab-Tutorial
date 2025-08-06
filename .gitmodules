@@ -4,3 +4,6 @@
 [submodule "Bai2"]
 	path = Bai2
 	url = https://github.com/qkhai15/Bai2.git
+[submodule "Bai3"]
+	path = Bai3
+	url = https://github.com/qkhai15/Bai3.git
