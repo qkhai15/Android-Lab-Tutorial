@@ -13,3 +13,6 @@
 [submodule "Bai5.1"]
 	path = Bai5.1
 	url = https://github.com/qkhai15/Bai5.1.git
+[submodule "Bai6"]
+	path = Bai6
+	url = https://github.com/qkhai15/Bai6.git
