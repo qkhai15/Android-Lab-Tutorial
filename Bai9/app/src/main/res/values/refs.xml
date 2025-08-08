@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="pause" />
+    <drawable name="play" />
+    <drawable name="stop" />
+    <drawable name="nhac" />
+</resources>
